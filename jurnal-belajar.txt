@@ -1,0 +1,6 @@
+Journey Belajar Git
+
+Selama ini para developer atau data engineer lebih fokus pada technical coding dan technical data skill.
+Mereka lupa bahwa sebenarnya di dunia kerja nyata, kolaborasi adalah sesuatu yang sangat penting juga.
+Permasalahannya adalah tools untuk kolaborasi tidak pernah diajarkan di bangku kuliah, bahkan di lembaga course.
+Untuk itulah, belajar Git sangat penting, karena Git saat ini adalah de-facto sebagai collaboration tools bagi para Developer dan Data Engineer.
