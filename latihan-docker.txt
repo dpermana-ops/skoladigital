@@ -1,0 +1,5 @@
+Latihan Docker
+
+Docker adalah salah satu tools yang mandatory dipelajari bagi seorang Data Engineer ataupun Developer.
+Docker telah menjadi tools de-facto untuk mengelola infrastruktur aplikasi modern yang bersifat agile, secure dan scalable.
+Dengan demikian, pada branch latihan ini, kita akan mencoba untuk mempelajari cara penggunaa Docker.
